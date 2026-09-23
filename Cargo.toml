@@ -1,0 +1,8 @@
+[package]
+name = "pm-01"
+version = "0.1.0"
+edition = "2021"
+description = "PM-0.1: an experimental implementation of Possibility Mechanics"
+license = "MIT"
+
+[dependencies]
